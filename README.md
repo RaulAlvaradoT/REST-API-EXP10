@@ -32,28 +32,21 @@ _Selecciona a la izquierda tu base de datos y tabla, en mi caso mi base de datos
 
 ## API 🔧
 
-_Dentro de la carpeta rest apareceran 3 archivos con extensión PHP_
+_Dentro de la carpeta rest apareceran 3 archivos con extensión PHP los cuales conforman nuestra API_
 - config
 - post
 - utils
 
 ### config.php
 _En este archivo se definirá el host username password y lo más importante el nombre de tu base de datos la cual para mi es "led"_
-```
-<?php
 
-$db = [
-    'host' => 'localhost',
-    'username' => 'root',
-    'password' => '',
-    'db' => 'led' //Aqui cambia el nombre de tu base de datos, la mia se llama led jajaja
-];
+### post.php
+_En este archivo php se indicará si se va a listar todos o sólo un get, se dan las reglas para crear un nuevo post que es lo mismo que insertar un nuevo registro a la base de datos, se dan las instrucciones para borrar un registro de la base de datos, y finalmente se dan las instrucciones para actualizar un registro de la base de datos_
 
-?>
-```
+### utils.php
+_Finalmente en el archivo utils se dan las instrucciones para abrir una conexión a la base de datos, obtener parámetros para poder actualizar un registro de la base de datos, y para que se asocie un parámetro con su respectivo valor_
 
-_Dí cómo será ese paso_
-
+## Postman :email:
 ```
 Da un ejemplo
 ```
