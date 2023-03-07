@@ -55,27 +55,12 @@ localhost/rest/post.php
 _Aquí hay un gif para ver todo este proceso en caso de ser confuso:_
 <img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gif.gif" alt="gif">
 
+## Peticiónes
+### GET General (Ver registros)
+### GET Individual (Ver un registro por ID)
+### POST (Nuevo registro)
+### PUT (Actualizar registro)
+### DELETE (Borrar registro)
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 ## Autor ✒️
 * **Raúl Alvarado** - *Exposición 10* - [Instagram ajjaj](https://www.instagram.com/raulalvarado.jpg/)
