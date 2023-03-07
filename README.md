@@ -8,12 +8,12 @@ _Para para empezar debes descargar el repositorio en tu carpeta htdocs haciendo 
 ```
 git clone https://github.com/RaulAlvaradoT/REST-API-EXP10.git
 ```
-![Ejemplo](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gitclone.png)
 
 ### Pre-requisitos 📋
 ```
-XAMPP
+XAMPP (https://www.apachefriends.org/es/download.html)
 POSTMAN
+La base de datos que hizo Led jajaja
 ```
 
 ### Instalación 🔧
