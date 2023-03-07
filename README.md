@@ -12,9 +12,9 @@ git clone https://github.com/RaulAlvaradoT/REST-API-EXP10.git
 
 
 ### Pre-requisitos 📋
-- XAMPP ![Descargar](https://www.apachefriends.org/es/download.html)
-- Postman ![Descargar](https://www.postman.com/downloads/)
-La base de datos que hizo Led jajaja
+- XAMPP [Descargar](https://www.apachefriends.org/es/download.html)
+- Postman [Descargar](https://www.postman.com/downloads/)
+- La base de datos que hizo Led jajaja
 
 ### Instalación 🔧
 
