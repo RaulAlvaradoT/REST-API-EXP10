@@ -88,7 +88,11 @@ localhost/rest/post.php
 3. Clickear la pestaña Body.
 4. Elegir from-data en la pestaña que se desplega.
 5. En el campo "KEY" colocar los parametros y en el de "VALUE" el valor eqivalente, de esta manera:
+
+
 _El id pelicula no se incluye ya que se genera solo_
+
+
 
 | KEY | VALUE |
 |------------------|----------------------|
@@ -97,7 +101,9 @@ _El id pelicula no se incluye ya que se genera solo_
 | genero           | Comedia              |
 | fecha_estreno    | 2023-03-07 00:00:00  |
 
-6. 
+
+6. Oprimir el botón send.
+7. Visualizar al lado derecho el nuevo registro y elegir como opción de visualización JSON.
 
 ### :pencil2: PUT (Actualizar registro)
 ### :x: DELETE (Borrar registro)
