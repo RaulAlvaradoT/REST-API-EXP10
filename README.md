@@ -58,21 +58,44 @@ _Aquí hay un gif para ver todo este proceso en caso de ser confuso:_
 ## Peticiónes
 
 ### :eyes: GET General (Ver registros)
-1. Elegir get en el cuadro de opciones.
+1. Elegir GET en el cuadro de opciones.
 2. Pegar la siguiente ruta:
 ```
 localhost/rest/post.php
 ```
-4. Oprimir el botón send.
-5. Del lado derecho elegir como opción de visualización JSON.
+3. Oprimir el botón send.
+4. Del lado derecho elegir como opción de visualización JSON.
 
 <img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/GETgen.png" alt="GET1">
 
-
-
-
 ### :mag: GET Individual (Ver un registro por ID)
+1. Elegir GET en el cuadro de opciones.
+2. Agregar a la ruta el id que se busca de esta manera por ejemplo:
+```
+localhost/rest/post.php?id_pelicula=5
+```
+3. Oprimir el botón send.
+4. Del lado derecho elegir como opción de visualización JSON.
+
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/GETind.png" alt="GET2">
+
 ### :pencil: POST (Nuevo registro)
+1. Elegir POST en el cuadro de opciones.
+2. Pegar la siguiente ruta:
+```
+localhost/rest/post.php
+```
+3. Clickear la pestaña Body.
+4. Elegir from-data en la pestaña que se desplega.
+5. En el campo "KEY" colocar los parametros y en el de "VALUE" el valor eqivalente, de esta manera:
+
+| KEY | VALUE |
+|------------------|----------------------|
+| nombre_pelicula  | La toalla del mojado |
+| director         | Frankie Rivers       |
+| genero           | Comedia              |
+| fecha_estreno    | 2023-03-07 00:00:00  |
+
 ### :pencil2: PUT (Actualizar registro)
 ### :x: DELETE (Borrar registro)
 
