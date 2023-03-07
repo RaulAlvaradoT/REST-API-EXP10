@@ -56,7 +56,21 @@ _Aquí hay un gif para ver todo este proceso en caso de ser confuso:_
 <img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gif.gif" alt="gif">
 
 ## Peticiónes
+
 ### GET General (Ver registros)
+1. Elegir get en el cuadro de opciones.
+2. Pegar la siguiente ruta:
+```
+localhost/rest/post.php
+```
+4. Oprimir el botón send.
+5. Del lado derecho elegir como opción de visualización JSON.
+
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/GETgen.png" alt="GET1">
+
+
+
+
 ### GET Individual (Ver un registro por ID)
 ### POST (Nuevo registro)
 ### PUT (Actualizar registro)
