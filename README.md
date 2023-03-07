@@ -10,6 +10,7 @@ _Repositorio para la clase de desarrollo web exposición #10_
 
 ### XAMPP
 _Enciende Apache y MySQL_
+
 ![XAMPP](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/XAMPP.png)
 
 ### Clonar repositorio
