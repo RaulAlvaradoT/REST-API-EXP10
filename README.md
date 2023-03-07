@@ -28,7 +28,7 @@ localhost/phpmyadmin/index.php
 _Selecciona a la izquierda tu base de datos y tabla, en mi caso mi base de datos es "led" y la tabla "peliculas"_
 
 ![BD](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/BD.png)
-<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/tabla.png" alt="tabla" width="600">
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/tabla.png" alt="tabla" width="650">
 
 ## API 🔧
 
@@ -47,15 +47,14 @@ _En este archivo php se indicará si se va a listar todos o sólo un get, se dan
 _Finalmente en el archivo utils se dan las instrucciones para abrir una conexión a la base de datos, obtener parámetros para poder actualizar un registro de la base de datos, y para que se asocie un parámetro con su respectivo valor_
 
 ## Postman :email:
+_Al abrir postman te pedirá una cuenta sin embargo abajo aparece un código para acceder sin una cuenta si asi lo prefieres, minimiza la barra lateral izquierda y activa la opcion "Single pane view" en la esquina inferior derecha, abré una nueva pestaña y agrega la siguiente dirección al lado derecho del GET:_
 ```
-Da un ejemplo
+localhost/rest/post.php
 ```
 
-_Y repite_
+_Aquí hay un gif para ver todo este proceso en caso de ser confuso:_
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gif.gif" alt="gif" width="1000">
 
-```
-hasta finalizar
-```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
