@@ -30,7 +30,7 @@ localhost/phpmyadmin/index.php
 _Selecciona a la izquierda tu base de datos y tabla, en mi caso mi base de datos es "led" y la tabla "peliculas"_
 ![BD](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/BD.png)
 ![tabla](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/tabla.png)
-<img src="ruta de la imagen" alt="Texto alternativo de la imagen" width="200">
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/tabla.png" alt="tabla" width="200">
 
 ### Instalación 🔧
 
