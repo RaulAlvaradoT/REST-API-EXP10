@@ -53,7 +53,7 @@ localhost/rest/post.php
 ```
 
 _Aquí hay un gif para ver todo este proceso en caso de ser confuso:_
-<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gif.gif" alt="gif" width="1000">
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gif.gif" alt="gif">
 
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
