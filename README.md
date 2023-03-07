@@ -1,9 +1,13 @@
 # REST-API-EXP10
-_Repositorio para la clase de desarrollo web exposición #10
+_Repositorio para la clase de desarrollo web exposición #10_
 
 ## Comenzando 🚀
 
-_Para para empezar debes descargar el repositorio en tu carpeta htdocs haciendo uso del comando git clone y pegando el enlace de este repositorio._
+_Para para empezar debes descargar el repositorio en tu carpeta htdocs haciendo uso del comando git clone y pegando el enlace de este repositorio, asi:_
+
+```
+git clone https://github.com/RaulAlvaradoT/REST-API-EXP10.git
+```
 
 ### Pre-requisitos 📋
 ```
