@@ -37,8 +37,18 @@ _Dentro de la carpeta rest apareceran 3 archivos con extensión PHP_
 - post
 - utils
 
-## config.php
-__
+### config.php
+_En este archivo se definirá el host username password y lo más importante el nombre de tu base de datos la cual para mi es "led"_
+`<?php
+
+$db = [
+    'host' => 'localhost',
+    'username' => 'root',
+    'password' => '',
+    'db' => 'led' //Aqui cambia el nombre de tu base de datos, la mia se llama led jajaja
+];
+
+?>`
 
 _Dí cómo será ese paso_
 
