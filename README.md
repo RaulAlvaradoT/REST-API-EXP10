@@ -85,13 +85,12 @@ localhost/rest/post.php?id_pelicula=5
 ```
 localhost/rest/post.php
 ```
-3. Clickear la pestaña Body.
+3. Clickear la pestaña "Body".
 4. Elegir from-data en la pestaña que se desplega.
 5. En el campo "KEY" colocar los parametros y en el de "VALUE" el valor eqivalente, de esta manera:
 
 
 _El id pelicula no se incluye ya que se genera solo_
-
 
 
 | KEY | VALUE |
@@ -104,9 +103,36 @@ _El id pelicula no se incluye ya que se genera solo_
 
 6. Oprimir el botón send.
 7. Visualizar al lado derecho el nuevo registro y elegir como opción de visualización JSON.
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/post.png" alt="POST">
 
 ### :pencil2: PUT (Actualizar registro)
+1. Elegir PUT en el cuadro de opciones.
+2. Agregar a la ruta el id que se busca actualizar, por ejemplo:
+```
+localhost/rest/post.php?id_pelicula=24
+```
+3. Clickear la pestaña "Params".
+4. Aparecera el id pelicula antes señalado, colocar el parametro y valor que se busca actualizar, asi:
+
+
+| KEY | VALUE |
+|-------------|----------|
+| id_pelicula | 24       |
+| genero      | Suspenso |
+
+
+5. Oprimir el botón send.
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/PUT.png" alt="PUT">
+
 ### :x: DELETE (Borrar registro)
+1. Elegir DELETE en el cuadro de opciones.
+2. Agregar la ruta con el id del registro que se desea borrar:
+```
+localhost/rest/post.php?id_pelicula=24
+```
+5. Oprimir el botón send.
+6. Si al buscar con un GET el registro del mismo id nos aparece un "false" el registro ha sido borrado.
+<img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/DELETE.png" alt="DELETE">
 
 ## Autor ✒️
 * **Raúl Alvarado** - *Exposición 10* - [Instagram ajjaj](https://www.instagram.com/raulalvarado.jpg/)
