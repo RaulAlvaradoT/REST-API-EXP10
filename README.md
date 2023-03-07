@@ -8,6 +8,7 @@ _Para para empezar debes descargar el repositorio en tu carpeta htdocs haciendo 
 ```
 git clone https://github.com/RaulAlvaradoT/REST-API-EXP10.git
 ```
+![Ejemplo](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gitclone.png)
 
 ### Pre-requisitos 📋
 ```
