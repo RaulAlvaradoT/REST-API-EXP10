@@ -1,19 +1,17 @@
 # REST-API-EXP10
 _Repositorio para la clase de desarrollo web exposición #10_
 
-## Comenzando 🚀
-
-### Pre-requisitos 📋
+## Pre-requisitos 📋
 - XAMPP [Descargar](https://www.apachefriends.org/es/download.html)
 - Postman [Descargar](https://www.postman.com/downloads/)
 - La base de datos que hizo Led jajaja
 
-### XAMPP
+## XAMPP
 _Enciende Apache y MySQL_
 
 ![XAMPP](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/XAMPP.png)
 
-### Clonar repositorio
+## Clonar repositorio
 _Para para empezar debes descargar el repositorio en tu carpeta htdocs haciendo uso del comando git clone y pegando el enlace de este repositorio, asi:_
 
 ```
@@ -22,7 +20,7 @@ git clone https://github.com/RaulAlvaradoT/REST-API-EXP10.git
 
 ![Ejemplo](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gitclone.png)
 
-### Base de datos
+## Base de datos
 _Ingresa a este link para visualizar tus bases de datos_
 ```
 localhost/phpmyadmin/index.php
@@ -32,9 +30,15 @@ _Selecciona a la izquierda tu base de datos y tabla, en mi caso mi base de datos
 ![BD](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/BD.png)
 <img src="https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/tabla.png" alt="tabla" width="650">
 
-### Instalación 🔧
+## API 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Dentro de la carpeta rest apareceran 3 archivos con extensión PHP_
+- config
+- post
+- utils
+
+## config.php
+__
 
 _Dí cómo será ese paso_
 
