@@ -3,18 +3,20 @@ _Repositorio para la clase de desarrollo web exposición #10_
 
 ## Comenzando 🚀
 
+### Pre-requisitos 📋
+- XAMPP [Descargar](https://www.apachefriends.org/es/download.html)
+- Postman [Descargar](https://www.postman.com/downloads/)
+- La base de datos que hizo Led jajaja
+
+### XAMPP
+_Enciende Apache y MySQL_
+![XAMPP](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/XAMPP.png)
 _Para para empezar debes descargar el repositorio en tu carpeta htdocs haciendo uso del comando git clone y pegando el enlace de este repositorio, asi:_
 
 ```
 git clone https://github.com/RaulAlvaradoT/REST-API-EXP10.git
 ```
 ![Ejemplo](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gitclone.png)
-
-
-### Pre-requisitos 📋
-- XAMPP [Descargar](https://www.apachefriends.org/es/download.html){:target="_blank" rel="noopener"}
-- Postman [Descargar](https://www.postman.com/downloads/){:target="_blank" rel="noopener"}
-- La base de datos que hizo Led jajaja
 
 ### Instalación 🔧
 
