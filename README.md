@@ -11,7 +11,10 @@ _Repositorio para la clase de desarrollo web exposición #10_
 ### XAMPP
 _Enciende Apache y MySQL_
 ![XAMPP](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/XAMPP.png)
+
+### Clonar repositorio
 _Para para empezar debes descargar el repositorio en tu carpeta htdocs haciendo uso del comando git clone y pegando el enlace de este repositorio, asi:_
+
 
 ```
 git clone https://github.com/RaulAlvaradoT/REST-API-EXP10.git
