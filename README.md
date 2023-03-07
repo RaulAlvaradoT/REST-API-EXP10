@@ -1,7 +1,6 @@
 # REST-API-EXP10
-_Repositorio para la clase de desarrollo web exposición #10_
 
-## :warning: Se recomienda abrir el README.md para ver mas grandes las imagenes :warning:
+## :warning: Se recomienda abrir el README.md para ver grandes las imagenes :warning:
 
 ## Pre-requisitos 📋
 - XAMPP [Descargar](https://www.apachefriends.org/es/download.html)
