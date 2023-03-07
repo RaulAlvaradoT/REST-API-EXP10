@@ -39,7 +39,7 @@ _Dentro de la carpeta rest apareceran 3 archivos con extensión PHP_
 
 ### config.php
 _En este archivo se definirá el host username password y lo más importante el nombre de tu base de datos la cual para mi es "led"_
-`
+```
 <?php
 
 $db = [
@@ -50,7 +50,7 @@ $db = [
 ];
 
 ?>
-`
+```
 
 _Dí cómo será ese paso_
 
