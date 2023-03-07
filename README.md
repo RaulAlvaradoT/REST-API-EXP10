@@ -16,11 +16,19 @@ _Enciende Apache y MySQL_
 ### Clonar repositorio
 _Para para empezar debes descargar el repositorio en tu carpeta htdocs haciendo uso del comando git clone y pegando el enlace de este repositorio, asi:_
 
-
 ```
 git clone https://github.com/RaulAlvaradoT/REST-API-EXP10.git
 ```
+
 ![Ejemplo](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/gitclone.png)
+
+### Base de datos
+_Ingresa a este link para visualizar tus bases de datos_
+```
+localhost/phpmyadmin/index.php
+```
+_Selecciona a la izquierda tu base de datos y tabla, en mi caso mi base de datos es "led" y la tabla "peliculas"_
+![BD](https://github.com/RaulAlvaradoT/REST-API-EXP10/blob/main/Imagenes/BD.png)
 
 ### Instalación 🔧
 
