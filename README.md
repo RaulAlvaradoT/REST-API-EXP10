@@ -57,7 +57,7 @@ _Aquí hay un gif para ver todo este proceso en caso de ser confuso:_
 
 ## Peticiónes
 
-### GET General (Ver registros)
+### :eyes: GET General (Ver registros)
 1. Elegir get en el cuadro de opciones.
 2. Pegar la siguiente ruta:
 ```
@@ -71,10 +71,10 @@ localhost/rest/post.php
 
 
 
-### GET Individual (Ver un registro por ID)
-### POST (Nuevo registro)
-### PUT (Actualizar registro)
-### DELETE (Borrar registro)
+### :mag: GET Individual (Ver un registro por ID)
+### :pencil: POST (Nuevo registro)
+### :pencil2: PUT (Actualizar registro)
+### :x: DELETE (Borrar registro)
 
 ## Autor ✒️
 * **Raúl Alvarado** - *Exposición 10* - [Instagram ajjaj](https://www.instagram.com/raulalvarado.jpg/)
